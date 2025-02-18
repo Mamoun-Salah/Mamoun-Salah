@@ -40,4 +40,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mamoun-salah&show_icons=true&locale=en" alt="mamoun-salah" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mamoun-salah&show_icons=true&locale=en&layout=compact&hide=python,c,c++,java,typescript,php,ruby" alt="mamoun-salah" /></p>
 <br>
+<br>
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mamoun-salah" alt="mamoun-salah" /></a> </p>
