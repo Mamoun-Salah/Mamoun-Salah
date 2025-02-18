@@ -42,4 +42,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mamoun-salah&show_icons=true&locale=en" alt="mamoun-salah" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mamoun-salah&" alt="mamoun-salah" /></p>
