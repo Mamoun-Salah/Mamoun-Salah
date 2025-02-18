@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mamoun</h1>
 <h3 align="center">An IT student and a frontend developer from Palestine</h3>
-<img alt="Coding" width="400" src="[https://pixabay.com/gifs/man-work-laptop-business-computer-1835/](https://cdn.pixabay.com/animation/2022/11/10/13/22/13-22-56-246_512.gif)">
+<img alt="Coding" width="400" src="http://cdn.pixabay.com/animation/2022/11/10/13/22/13-22-56-246_512.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamoun-salah&label=Profile%20views&color=0e75b6&style=flat" alt="mamoun-salah" /> </p>
 
