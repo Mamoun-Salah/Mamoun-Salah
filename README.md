@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mamoun</h1>
-<h3 align="center">An IT student and a frontend developer from Palestine</h3>
+<h3 align="center">IT student and a frontend developer from Palestine</h3>
 <img align ="right" src="http://cdn.pixabay.com/animation/2022/11/10/13/22/13-22-56-246_512.gif" alt="Coding">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamoun-salah&label=Profile%20views&color=0e75b6&style=flat" alt="mamoun-salah" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mamoun-salah" alt="mamoun-salah" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [A+Study](#)
@@ -41,3 +37,4 @@
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mamoun-salah&show_icons=true&locale=en" alt="mamoun-salah" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mamoun-salah&show_icons=true&locale=en&layout=compact&hide=python,c,c++,java,typescript,php,ruby" alt="mamoun-salah" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mamoun-salah" alt="mamoun-salah" /></a> </p>
