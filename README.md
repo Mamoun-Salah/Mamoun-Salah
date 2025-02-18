@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mamoun-Salah](https://github.com/Mamoun-Salah)
 
-- 📝 I regularly write articles on [#Coming Soon!](#Coming Soon!)
+- 📝 I regularly write articles on (#Coming Soon!)
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
