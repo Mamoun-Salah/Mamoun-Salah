@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mamoun</h1>
 <h3 align="center">IT student and a frontend developer from Palestine</h3>
+<br>
 <img align ="right" src="http://cdn.pixabay.com/animation/2022/11/10/13/22/13-22-56-246_512.gif" alt="Coding" width ="460px" height ="500">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamoun-salah&label=Profile%20views&color=0e75b6&style=flat" alt="mamoun-salah" /> </p>
 
